@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="profile-intro.png" width="100%" alt="Paramesh P — CSE Student | AI/ML & Full-Stack Developer">
+  <img src="Black and Purple Gradient Modern Business LinkedIn Banner.png" width="100%" alt="Paramesh P — CSE Student | AI/ML & Full-Stack Developer">
 </div>
 
 ## 👨‍💻 About Me
