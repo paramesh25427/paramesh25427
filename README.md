@@ -62,8 +62,8 @@ A collection of coding practice and Data Structures and Algorithms solutions.
 
 **Focus:** Problem-solving, algorithms, and Java
 
-### 🔧 [GitHub Practice](https://github.com/paramesh25427/github-practice)
-Hands-on practice with Git and GitHub, including commits, branches, and repository workflows.
+### 🔧 [DevMatrixe-AI](https://github.com/paramesh25427/devmatrix-ai.git)
+devmatrix-ai an system that acts as a complete manager in building projects in company
 
 ---
 
