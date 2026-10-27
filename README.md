@@ -57,12 +57,12 @@ A Java project for exploring automated builds and continuous integration and del
 
 **Technologies:** Java, Git, CI/CD
 
-### 🧩 [LeetCode Solutions](https://github.com/paramesh25427/Leetcode-Solutions)
+### 🧩 [LeetCode Solutions](https://github.com/paramesh25427/LeetcodeDSA)
 A collection of coding practice and Data Structures and Algorithms solutions.
 
 **Focus:** Problem-solving, algorithms, and Java
 
-### 🔧 [DevMatrixe-AI](https://github.com/paramesh25427/devmatrix-ai.git)
+### 🔧 [DevMatrixe-AI](https://github.com/paramesh25427/devmatrix)
 devmatrix-ai an system that acts as a complete manager in building projects in company
 
 ---
